@@ -5,3 +5,4 @@ IoTProject
 当心跳小于40或者大于100提示用户心跳的异常。通过Snake安卓组件反映心跳数据变化。
 效果图
 
+![image](https://user-images.githubusercontent.com/35141949/147149792-55d598a0-ac72-4aed-9e97-3bdc75575ecd.png)
